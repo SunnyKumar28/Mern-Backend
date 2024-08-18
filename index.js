@@ -9,7 +9,7 @@ import userRoute from "./route/user.route.js";
 
 
 const corsOptions = {
-  origin: 'https://mern-stack-f.vercel.app',
+  origin: 'https://mern-frontend-delta-ochre.vercel.app',
   methods: 'GET, HEAD, PUT, PATCH, POST, DELETE',
   credentials: true,
   optionsSuccessStatus: 204
